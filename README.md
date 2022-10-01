@@ -1,1 +1,1 @@
-# DC-javascript
+I have learned so much in so little time and I'm actually very surprised so thank y'all for doing what you do!! I have not had too much of a hard time understanding everything that we have done in class thus far, I'd say the only thing I am having trouble with is remembering exactly what to write in the code and why it is written. Once it is fully explained in class I completely understand it but doing my own practices is when I am having a hard time comprehending it.
